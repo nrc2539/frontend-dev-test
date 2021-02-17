@@ -1,0 +1,43 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 55px;
+}
+
+.navbar .left-section {
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+  background-color: black;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.navbar .left-section .user {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar .left-section .user .user-info {
+  margin-left: 15px;
+}
+
+.navbar .left-section .user .user-info .name {
+  color: #ff8c00;
+}
+
+.navbar .left-section .user .user-info .position {
+  color: white;
+}
+
+.navbar .right-section {
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #ff8c00;
+  color: white;
+  padding-right: 10px;
+}
