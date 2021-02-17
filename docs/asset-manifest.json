@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/frontend-dev-test/static/css/main.97461184.chunk.css",
+    "main.js": "/frontend-dev-test/static/js/main.ae384fc6.chunk.js",
+    "main.js.map": "/frontend-dev-test/static/js/main.ae384fc6.chunk.js.map",
+    "runtime-main.js": "/frontend-dev-test/static/js/runtime-main.3b6201d1.js",
+    "runtime-main.js.map": "/frontend-dev-test/static/js/runtime-main.3b6201d1.js.map",
+    "static/css/2.00850458.chunk.css": "/frontend-dev-test/static/css/2.00850458.chunk.css",
+    "static/js/2.71435c83.chunk.js": "/frontend-dev-test/static/js/2.71435c83.chunk.js",
+    "static/js/2.71435c83.chunk.js.map": "/frontend-dev-test/static/js/2.71435c83.chunk.js.map",
+    "static/js/3.42b1afd2.chunk.js": "/frontend-dev-test/static/js/3.42b1afd2.chunk.js",
+    "static/js/3.42b1afd2.chunk.js.map": "/frontend-dev-test/static/js/3.42b1afd2.chunk.js.map",
+    "static/js/4.934c9502.chunk.js": "/frontend-dev-test/static/js/4.934c9502.chunk.js",
+    "static/js/4.934c9502.chunk.js.map": "/frontend-dev-test/static/js/4.934c9502.chunk.js.map",
+    "static/js/5.9bef0b26.chunk.js": "/frontend-dev-test/static/js/5.9bef0b26.chunk.js",
+    "static/js/5.9bef0b26.chunk.js.map": "/frontend-dev-test/static/js/5.9bef0b26.chunk.js.map",
+    "static/js/6.fa9acb31.chunk.js": "/frontend-dev-test/static/js/6.fa9acb31.chunk.js",
+    "static/js/6.fa9acb31.chunk.js.map": "/frontend-dev-test/static/js/6.fa9acb31.chunk.js.map",
+    "index.html": "/frontend-dev-test/index.html",
+    "static/css/2.00850458.chunk.css.map": "/frontend-dev-test/static/css/2.00850458.chunk.css.map",
+    "static/css/main.97461184.chunk.css.map": "/frontend-dev-test/static/css/main.97461184.chunk.css.map",
+    "static/js/2.71435c83.chunk.js.LICENSE.txt": "/frontend-dev-test/static/js/2.71435c83.chunk.js.LICENSE.txt",
+    "static/js/3.42b1afd2.chunk.js.LICENSE.txt": "/frontend-dev-test/static/js/3.42b1afd2.chunk.js.LICENSE.txt",
+    "static/js/4.934c9502.chunk.js.LICENSE.txt": "/frontend-dev-test/static/js/4.934c9502.chunk.js.LICENSE.txt",
+    "static/js/5.9bef0b26.chunk.js.LICENSE.txt": "/frontend-dev-test/static/js/5.9bef0b26.chunk.js.LICENSE.txt",
+    "static/media/icon_understand-white.a294553e.svg": "/frontend-dev-test/static/media/icon_understand-white.a294553e.svg",
+    "static/media/logo_sme.a71f6cc7.svg": "/frontend-dev-test/static/media/logo_sme.a71f6cc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b6201d1.js",
+    "static/css/2.00850458.chunk.css",
+    "static/js/2.71435c83.chunk.js",
+    "static/css/main.97461184.chunk.css",
+    "static/js/main.ae384fc6.chunk.js"
+  ]
+}
